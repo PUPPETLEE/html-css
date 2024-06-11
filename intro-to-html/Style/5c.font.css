@@ -1,0 +1,28 @@
+p{
+    font-weight: Verdena;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.second-paragraph{
+    color: rgb(158, 156, 156);
+    margin-bottom: 20px;
+}
+.third-paragraph{
+    width: 240px;
+    margin-bottom: 20px;
+}
+.get-started-btn{
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 6px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    transition:box-shadow 0.15s;
+}
+.get-started-btn:active{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}

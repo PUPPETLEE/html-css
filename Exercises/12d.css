@@ -1,0 +1,16 @@
+.item-row{
+    display: flex;
+    flex-direction: row;
+    border-color: gray;
+    border-style: solid;
+    height: 50px;
+    border-width: 1px;
+    align-items: center;
+    justify-content: space-between;
+}
+.item1{
+    background-color: lightpink;
+}
+.item2{
+    background-color: lightpink;
+}

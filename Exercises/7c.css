@@ -1,0 +1,9 @@
+.mira-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-position: top;
+    object-fit: cover;
+
+
+}

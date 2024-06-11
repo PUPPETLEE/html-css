@@ -1,0 +1,27 @@
+.container{
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    width: 300px;
+    border-width: 1px;
+    border-radius: 6px;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.notifacations{
+    background-color: rgb(49, 109, 245);
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
