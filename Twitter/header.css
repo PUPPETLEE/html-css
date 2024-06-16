@@ -35,13 +35,13 @@
     
 }
 .content-left{
-    background-color: rgb(255, 255, 255);
     width: 270px;
     border: none;
+    background-color: transparent;
     font-weight: bold;
 }
 .content-middle{
-    background-color: rgb(255, 22, 22);
+    background-color:transparent;
     width: 275px;
     border: none;
     font-weight: bold;
